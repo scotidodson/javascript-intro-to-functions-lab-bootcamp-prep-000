@@ -5,13 +5,11 @@ function shout(string) {
 
 function whisper(string) {
   return string.toLowerCase();
-=======
   return string.toUpperCase()
 }
 
 function whisper(string) {
   return string.toLowerCase()
->>>>>>> 29a05943ee9478566c5a865428bc42bb2180bc40
 }
 
 function logShout(string) {
